@@ -1,0 +1,9 @@
+README.md
+setup.py
+inventory_system.egg-info/PKG-INFO
+inventory_system.egg-info/SOURCES.txt
+inventory_system.egg-info/dependency_links.txt
+inventory_system.egg-info/requires.txt
+inventory_system.egg-info/top_level.txt
+src/__init__.py
+src/main.py

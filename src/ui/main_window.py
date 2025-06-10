@@ -3,8 +3,8 @@
 """
 import tkinter as tk
 from tkinter import ttk, messagebox
-from ..database.db_manager import DatabaseManager
-from .inventory_records_window import InventoryRecordsWindow
+from database.db_manager import DatabaseManager
+from ui.inventory_records_window import InventoryRecordsWindow
 
 class InventorySystem:
     """库存管理系统主窗口类"""

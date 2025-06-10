@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from datetime import datetime
 import pandas as pd
-from ..database.db_manager import DatabaseManager
+from database.db_manager import DatabaseManager
 
 class InventoryRecordsWindow:
     """出入库记录窗口类"""

@@ -4,8 +4,8 @@
 import sqlite3
 from datetime import datetime
 from typing import List, Optional, Tuple, Union
-from ..models.product import Product
-from ..models.inventory_record import InventoryRecord
+from src.models.product import Product
+from src.models.inventory_record import InventoryRecord
 
 class DatabaseManager:
     """数据库管理类"""
